@@ -54,3 +54,5 @@ function errDiary({ logError = true, logSuccess = false }) {
     next();
   };
 }
+
+const test = 'pew'
